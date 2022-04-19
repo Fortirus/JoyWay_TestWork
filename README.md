@@ -20,3 +20,4 @@ Unreal Engine Developer exercise: PC Desktop and VR FPS
 •	Смерть и респавн игрока после смерти.
 
 [Демонстрация проекта]( https://drive.google.com/file/d/1ub--e9vxki2uhEo-q_fnKplLqXT7aI3H/) 
+[Сопроводительный документ](https://docs.google.com/document/d/1bahzd4gx2HmSng8FRobrp1uKLgG49Fma/)
